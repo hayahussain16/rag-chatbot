@@ -1,0 +1,19 @@
+Company Information
+
+Our company follows a hybrid work model.
+
+Employees work from Monday to Friday.
+
+The standard working hours are from 9:00 AM to 6:00 PM.
+
+Employees receive 20 days of paid leave per year.
+
+The company has four main departments: Engineering, Data Science, Human Resources, and Marketing.
+
+The Engineering department develops and maintains software applications.
+
+The Data Science department works on data analysis, machine learning, and artificial intelligence projects.
+
+The Human Resources department handles recruitment, employee benefits, and workplace policies.
+
+The Marketing department manages campaigns, branding, and customer communication.
